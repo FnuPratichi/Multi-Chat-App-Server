@@ -1,6 +1,7 @@
 # 💬 Real-time Chat Application
 
-A real-time chat application built using modern web technologies that allows users to communicate instantly. The project demonstrates the use of WebSockets for bidirectional communication, creating a smooth and interactive messaging experience.
+A real-time chat application built using modern web technologies that allows users to communicate instantly. 
+
 
 ## Demo
 Url : https://drive.google.com/file/d/1WRpuoJyzMzqjmWUzUjMMW50ic80OpDLo/view?usp=sharing
