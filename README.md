@@ -1,4 +1,4 @@
-# 💬 Real-time Chat Application
+# 💬 Real time Multi-Chat App Server
 
 A real-time chat application built using modern web technologies that allows users to communicate instantly. 
 
